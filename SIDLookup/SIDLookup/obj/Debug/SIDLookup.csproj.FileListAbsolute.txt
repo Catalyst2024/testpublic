@@ -1,7 +1,0 @@
-C:\tools\SIDLookup\SIDLookup\bin\Debug\SIDLookup.exe
-C:\tools\SIDLookup\SIDLookup\bin\Debug\SIDLookup.pdb
-C:\tools\SIDLookup\SIDLookup\bin\Debug\Common.Types.dll
-C:\tools\SIDLookup\SIDLookup\bin\Debug\CommonServices.dll
-C:\tools\SIDLookup\SIDLookup\obj\Debug\SIDLookup.csprojResolveAssemblyReference.cache
-C:\tools\SIDLookup\SIDLookup\obj\Debug\SIDLookup.exe
-C:\tools\SIDLookup\SIDLookup\obj\Debug\SIDLookup.pdb
